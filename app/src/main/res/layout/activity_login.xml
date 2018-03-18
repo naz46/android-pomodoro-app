@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.nazlcanozturk46.pomodoro.Login"
+    android:background="@drawable/actionbar_background">
+
+    <com.facebook.login.widget.LoginButton
+        android:id="@+id/login_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="158dp"
+        android:fontFamily="casual"
+        android:textSize="20dp"
+        android:textStyle="italic"
+        app:layout_constraintHorizontal_weight="0.09"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="MissingConstraints" />
+
+    <TextView
+        android:id="@+id/textView16"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/textView17"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="38dp"
+        android:fontFamily="casual"
+        android:gravity="center"
+        android:text="Pomodoro"
+        android:textAllCaps="true"
+        android:textSize="40sp"
+        android:textStyle="bold|italic"
+        tools:layout_editor_absoluteX="176dp"
+        tools:layout_editor_absoluteY="100dp" />
+
+    <TextView
+        android:id="@+id/textView17"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:autoSizeTextType="uniform"
+        android:fontFamily="casual"
+        android:text="Welcome "
+        android:textSize="18sp"
+        android:textStyle="bold|italic" />
+
+    <TextView
+        android:id="@+id/textView18"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/login_button"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="87dp"
+        android:autoSizeTextType="uniform"
+        android:fontFamily="casual"
+        android:text="Login to Continue"
+        android:gravity="center"
+        android:textAllCaps="false"
+        android:textSize="18sp"
+        android:textStyle="bold|italic" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_above="@+id/textView16"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="20dp"
+        app:srcCompat="@mipmap/alarm" />
+
+</RelativeLayout>

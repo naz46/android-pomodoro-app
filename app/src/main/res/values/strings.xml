@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Pomodoro</string>
+    <string name="facebook_app_id">YOUR_FACEBOOK_APP_ID</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="hint_minute">Minute</string>
+    <string name="settings_timer">Timer</string>
+    <string name="settings_notifications">Notifications</string>
+
+</resources>

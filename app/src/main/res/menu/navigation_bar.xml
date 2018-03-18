@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Pomodoro">
+        <menu>
+            <item
+                android:id="@+id/account"
+                android:icon="@mipmap/account"
+                android:title="Account" />
+
+        </menu>
+    </item>
+
+
+    <item android:title="App">
+        <menu>
+            <item
+                android:id="@+id/settings"
+                android:icon="@mipmap/settingss"
+                android:title="Settings" />
+
+            <item
+                android:id="@+id/about"
+                android:icon="@mipmap/about"
+                android:title="About" />
+
+            <item
+                android:id="@+id/share"
+                android:icon="@mipmap/share"
+                android:title="Share" />
+
+        </menu>
+    </item>
+
+</menu>

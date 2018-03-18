@@ -4,51 +4,53 @@ Android Pomodoro Timer application with Facebook Login. You can change your pomo
 
 ## Splash Screen
 
-![enter image description here](https://raw.githubusercontent.com/naz46/android-pomodoro-app/master/screenshoots/ss1.jpeg)
+<img src="https://raw.githubusercontent.com/naz46/android-pomodoro-app/master/screenshoots/ss1.jpeg" width="40%">
 
 
-![enter image description here](https://raw.githubusercontent.com/naz46/android-pomodoro-app/master/screenshoots/ss2.jpeg)
+<img src="https://raw.githubusercontent.com/naz46/android-pomodoro-app/master/screenshoots/ss2.jpeg" width="40%">
 
 ## Facebook Login 
 
-![enter image description here](https://raw.githubusercontent.com/naz46/android-pomodoro-app/master/screenshoots/ss3.jpeg)
+<img src="https://raw.githubusercontent.com/naz46/android-pomodoro-app/master/screenshoots/ss3.jpeg" width="40%">
 
 ## Initial Screen
 
-![enter image description here](https://raw.githubusercontent.com/naz46/android-pomodoro-app/master/screenshoots/ss4.jpeg)
+<img src="https://raw.githubusercontent.com/naz46/android-pomodoro-app/master/screenshoots/ss4.jpeg" width="40%">
 
 ## Work Screen
 
-![enter image description here](https://raw.githubusercontent.com/naz46/android-pomodoro-app/master/screenshoots/ss5.jpeg)
+<img src="https://raw.githubusercontent.com/naz46/android-pomodoro-app/master/screenshoots/ss5.jpeg" width="40%">
 
 ## End of Work Duration
 
-![enter image description here](https://raw.githubusercontent.com/naz46/android-pomodoro-app/master/screenshoots/ss6.jpeg)
+<img src="https://raw.githubusercontent.com/naz46/android-pomodoro-app/master/screenshoots/ss6.jpeg" width="40%">
 
 ## Break Screen
 
-![enter image description here](https://raw.githubusercontent.com/naz46/android-pomodoro-app/master/screenshoots/ss7.jpeg)
+<img src="https://raw.githubusercontent.com/naz46/android-pomodoro-app/master/screenshoots/ss7.jpeg" width="40%">
 
 ## End of Break Duration
 
-![enter image description here](https://raw.githubusercontent.com/naz46/android-pomodoro-app/master/screenshoots/ss8.jpeg)
+<img src="https://raw.githubusercontent.com/naz46/android-pomodoro-app/master/screenshoots/ss8.jpeg" width="40%">
 
 ## Setting Screen
 
-![enter image description here](https://raw.githubusercontent.com/naz46/android-pomodoro-app/master/screenshoots/ss9.jpeg)
+<img src="https://raw.githubusercontent.com/naz46/android-pomodoro-app/master/screenshoots/ss9.jpeg" width="40%">
 
 ## About Screen
 
-![enter image description here](https://raw.githubusercontent.com/naz46/android-pomodoro-app/master/screenshoots/ss10.jpeg)
+<img src="https://raw.githubusercontent.com/naz46/android-pomodoro-app/master/screenshoots/ss10.jpeg" width="40%">
 
 ## Icon Explanations
 
-![enter image description here](https://raw.githubusercontent.com/naz46/android-pomodoro-app/master/screenshoots/ss11.jpeg)
+<img src="https://raw.githubusercontent.com/naz46/android-pomodoro-app/master/screenshoots/ss11.jpeg" width="40%">
 
 ## Hamburger Menu
 
-![enter image description here](https://raw.githubusercontent.com/naz46/android-pomodoro-app/master/screenshoots/ss12.jpeg)
+<img src="https://raw.githubusercontent.com/naz46/android-pomodoro-app/master/screenshoots/ss12.jpeg" width="40%">
 
 ## Account Screen
 
-![enter image description here](https://raw.githubusercontent.com/naz46/android-pomodoro-app/master/screenshoots/ss13.jpeg)
+<img src="https://raw.githubusercontent.com/naz46/android-pomodoro-app/master/screenshoots/ss13.jpeg" width="40%">
+
+
